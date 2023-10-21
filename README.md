@@ -1,2 +1,2 @@
 # mynotes
-This repository is built for [notes](https://github.com/thinson/mynotes/issues).
+This repository is built for [my blog](https://github.com/thinson/myblog/issues).
